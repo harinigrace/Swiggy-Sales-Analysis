@@ -80,4 +80,4 @@ Created an interactive dashboard using:
 
 ## Author
 
-**Harini R**.
+**Harini R**
