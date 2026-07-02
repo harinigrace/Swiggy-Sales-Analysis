@@ -62,7 +62,7 @@ Created an interactive dashboard using:
 - Quarterly performance helps compare business growth throughout the year.
 - KPI cards provide an overall snapshot of business performance, including total sales, orders, average order value, and customer ratings.
 
-## 🧰 Skills Applied
+## Skills Applied
 
 - Microsoft Excel
 - Data Cleaning
@@ -74,12 +74,10 @@ Created an interactive dashboard using:
 - Data Visualization
 - Business Insights
 
-## 📷 Dashboard
+## Dashboard
 
 ![Dashboard](Dashboard%20image.png)
 
-## 👩‍💻 Author
+## Author
 
-**Harini R**
-
-This project is part of my Data Analytics portfolio, where I practice transforming raw data into interactive dashboards and business insights using Microsoft Excel.
+**Harini R**.
